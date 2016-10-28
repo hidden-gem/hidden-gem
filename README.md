@@ -1,2 +1,2 @@
-Ruby Workshoper
+Ruby Workshopper
 ================
